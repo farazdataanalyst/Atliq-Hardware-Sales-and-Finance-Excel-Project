@@ -1,4 +1,4 @@
-# Atliq-Hardware-Sales-and-Finance-Excel-Project
+# Excel-Sales-and-Finance-Analytics
 
 ## Sales Report :
 
