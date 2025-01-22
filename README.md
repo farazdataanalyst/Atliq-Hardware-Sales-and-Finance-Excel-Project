@@ -5,6 +5,7 @@
 - **Project objective:**
 
  **1.** Create a _[customer performance Analysis report](https://github.com/farazdataanalyst/Atliq-Hardware-Sales-and-Finance-Excel-Project/blob/main/Excel%20Project-%20Atliq%20Hardware%20Customer%20Performance%20Analysis.pdf)_ 
+ 
 **2.** Conduct a comprehensive comparison between _[market performance against 2021 sales targets](https://github.com/farazdataanalyst/Atliq-Hardware-Sales-and-Finance-Excel-Project/blob/main/Excel%20Project-%20Atliq%20Hardware%20Market%20Performance%20vs%202021%20Targets.pdf)_
 
 - **Purpose of Sales Analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
